@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 import time
+from utils.helpers import load_keywords
 from utils.helpers import save_to_csv
 import os
 
@@ -22,11 +23,7 @@ def scrape():  # ✅ Wrap in function
     except:
         print("❌ Cookie accept button not found or not clickable.")
 
-    keywords = [
-        "web scraping", "selenium", "python", "automation", "data extraction", "api integration",
-        "data mining", "beautifulsoup", "scrapy", "pdf scraping", "bot", "crawler", "email automation",
-        "data scraping", "chrome extension", "twilio", "telegram bot", "freelancing bot", "job scraper", "keyword filter"
-    ]
+    keywords=load_keywords()
 
     all_jobs = []
 

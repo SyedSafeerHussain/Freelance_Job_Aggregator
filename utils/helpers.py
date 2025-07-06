@@ -1,6 +1,10 @@
 # utils/helpers.py
 import csv
 import os
+# utils/helpers.py ya main.py ke andar
+def load_keywords(file_path='config/keywords.txt'):
+    with open(file_path, 'r') as file:
+        return [line.strip() for line in file if line.strip()]
 
 def save_to_csv(data, filename):
     folder = "data"
