@@ -1,0 +1,1644 @@
+2025-07-08 22:37:43,786 - INFO - ✅ Cookie accepted
+2025-07-08 22:38:03,284 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:38:20,197 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:38:37,604 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:38:54,467 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:39:15,017 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:39:31,972 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:39:51,424 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:40:08,925 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:40:26,131 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:40:42,641 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:41:03,374 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:41:21,634 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:41:38,644 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:41:59,965 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:42:17,325 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:42:38,206 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:43:03,440 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:43:28,485 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:43:53,901 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:44:24,391 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5848cae1a45a <unknown>
+#1 0x5848ca8bf760 <unknown>
+#2 0x5848ca911127 <unknown>
+#3 0x5848ca911321 <unknown>
+#4 0x5848ca95fe94 <unknown>
+#5 0x5848ca936e7d <unknown>
+#6 0x5848ca95d30b <unknown>
+#7 0x5848ca936c23 <unknown>
+#8 0x5848ca9034a5 <unknown>
+#9 0x5848ca904111 <unknown>
+#10 0x5848caddef1b <unknown>
+#11 0x5848cade2e19 <unknown>
+#12 0x5848cadc5ac9 <unknown>
+#13 0x5848cade39c8 <unknown>
+#14 0x5848cadaa34f <unknown>
+#15 0x5848cae07a28 <unknown>
+#16 0x5848cae07c06 <unknown>
+#17 0x5848cae19336 <unknown>
+#18 0x76ec5ba9caa4 <unknown>
+#19 0x76ec5bb29c3c <unknown>
+
+2025-07-08 22:44:27,843 - INFO - ✅ Scraping complete and saved to data/pph_job.csv
+2025-07-08 22:44:36,910 - INFO - ✅ Cookie accepted
+2025-07-08 22:44:41,161 - ERROR - ❌ Error during keyword 'web scraping' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:44:45,135 - ERROR - ❌ Error during keyword 'selenium' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:44:49,247 - ERROR - ❌ Error during keyword 'python' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:44:53,503 - ERROR - ❌ Error during keyword 'automation' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:44:56,948 - ERROR - ❌ Error during keyword 'data extraction' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:45:01,462 - ERROR - ❌ Error during keyword 'api integration' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:45:05,551 - ERROR - ❌ Error during keyword 'data mining' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:45:09,124 - ERROR - ❌ Error during keyword 'beautifulsoup' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:45:13,520 - ERROR - ❌ Error during keyword 'scrapy' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:45:17,007 - ERROR - ❌ Error during keyword 'pdf scraping' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:45:20,727 - ERROR - ❌ Error during keyword 'bot' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:45:24,714 - ERROR - ❌ Error during keyword 'crawler' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:45:28,189 - ERROR - ❌ Error during keyword 'email automation' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:45:31,669 - ERROR - ❌ Error during keyword 'data scraping' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:45:35,924 - ERROR - ❌ Error during keyword 'chrome extension' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:45:39,445 - ERROR - ❌ Error during keyword 'twilio' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:45:42,896 - ERROR - ❌ Error during keyword 'telegram bot' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:45:46,198 - ERROR - ❌ Error during keyword 'freelancing bot' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:45:49,469 - ERROR - ❌ Error during keyword 'job scraper' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:45:54,005 - ERROR - ❌ Error during keyword 'keyword filter' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ef014a7a45a <unknown>
+#1 0x5ef01451f760 <unknown>
+#2 0x5ef014571127 <unknown>
+#3 0x5ef014571321 <unknown>
+#4 0x5ef0145bfe94 <unknown>
+#5 0x5ef014596e7d <unknown>
+#6 0x5ef0145bd30b <unknown>
+#7 0x5ef014596c23 <unknown>
+#8 0x5ef0145634a5 <unknown>
+#9 0x5ef014564111 <unknown>
+#10 0x5ef014a3ef1b <unknown>
+#11 0x5ef014a42e19 <unknown>
+#12 0x5ef014a25ac9 <unknown>
+#13 0x5ef014a439c8 <unknown>
+#14 0x5ef014a0a34f <unknown>
+#15 0x5ef014a67a28 <unknown>
+#16 0x5ef014a67c06 <unknown>
+#17 0x5ef014a79336 <unknown>
+#18 0x7551a429caa4 <unknown>
+#19 0x7551a4329c3c <unknown>
+
+2025-07-08 22:45:55,193 - INFO - ✅ Scraping complete and saved to data/guru_jobs.csv
+2025-07-08 22:56:22,879 - INFO - ✅ Cookie accepted
+2025-07-08 22:56:26,909 - ERROR - ❌ Error during keyword 'web scraping' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f760 <unknown>
+#2 0x5a92d2b71127 <unknown>
+#3 0x5a92d2b71321 <unknown>
+#4 0x5a92d2bbfe94 <unknown>
+#5 0x5a92d2b96e7d <unknown>
+#6 0x5a92d2bbd30b <unknown>
+#7 0x5a92d2b96c23 <unknown>
+#8 0x5a92d2b634a5 <unknown>
+#9 0x5a92d2b64111 <unknown>
+#10 0x5a92d303ef1b <unknown>
+#11 0x5a92d3042e19 <unknown>
+#12 0x5a92d3025ac9 <unknown>
+#13 0x5a92d30439c8 <unknown>
+#14 0x5a92d300a34f <unknown>
+#15 0x5a92d3067a28 <unknown>
+#16 0x5a92d3067c06 <unknown>
+#17 0x5a92d3079336 <unknown>
+#18 0x77c2d5a9caa4 <unknown>
+#19 0x77c2d5b29c3c <unknown>
+
+2025-07-08 22:56:30,779 - ERROR - ❌ Error during keyword 'selenium' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f760 <unknown>
+#2 0x5a92d2b71127 <unknown>
+#3 0x5a92d2b71321 <unknown>
+#4 0x5a92d2bbfe94 <unknown>
+#5 0x5a92d2b96e7d <unknown>
+#6 0x5a92d2bbd30b <unknown>
+#7 0x5a92d2b96c23 <unknown>
+#8 0x5a92d2b634a5 <unknown>
+#9 0x5a92d2b64111 <unknown>
+#10 0x5a92d303ef1b <unknown>
+#11 0x5a92d3042e19 <unknown>
+#12 0x5a92d3025ac9 <unknown>
+#13 0x5a92d30439c8 <unknown>
+#14 0x5a92d300a34f <unknown>
+#15 0x5a92d3067a28 <unknown>
+#16 0x5a92d3067c06 <unknown>
+#17 0x5a92d3079336 <unknown>
+#18 0x77c2d5a9caa4 <unknown>
+#19 0x77c2d5b29c3c <unknown>
+
+2025-07-08 22:56:34,725 - ERROR - ❌ Error during keyword 'python' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-32']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f760 <unknown>
+#2 0x5a92d2b71127 <unknown>
+#3 0x5a92d2b71321 <unknown>
+#4 0x5a92d2bbfe94 <unknown>
+#5 0x5a92d2b96e7d <unknown>
+#6 0x5a92d2bbd30b <unknown>
+#7 0x5a92d2b96c23 <unknown>
+#8 0x5a92d2b634a5 <unknown>
+#9 0x5a92d2b64111 <unknown>
+#10 0x5a92d303ef1b <unknown>
+#11 0x5a92d3042e19 <unknown>
+#12 0x5a92d3025ac9 <unknown>
+#13 0x5a92d30439c8 <unknown>
+#14 0x5a92d300a34f <unknown>
+#15 0x5a92d3067a28 <unknown>
+#16 0x5a92d3067c06 <unknown>
+#17 0x5a92d3079336 <unknown>
+#18 0x77c2d5a9caa4 <unknown>
+#19 0x77c2d5b29c3c <unknown>
+
+2025-07-08 22:56:36,090 - ERROR - ❌ Error during keyword 'automation' scraping: Message: unknown error: cannot determine loading status
+from target frame detached
+  (Session info: chrome=137.0.7151.119)
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f5b3 <unknown>
+#2 0x5a92d2b070c5 <unknown>
+#3 0x5a92d2b04f75 <unknown>
+#4 0x5a92d2b058cf <unknown>
+#5 0x5a92d2b14e75 <unknown>
+#6 0x5a92d2b2dd0e <unknown>
+#7 0x5a92d2b3450b <unknown>
+#8 0x5a92d2b06010 <unknown>
+#9 0x5a92d2b2d524 <unknown>
+#10 0x5a92d2bbd66f <unknown>
+#11 0x5a92d2b96c23 <unknown>
+#12 0x5a92d2b634a5 <unknown>
+#13 0x5a92d2b64111 <unknown>
+#14 0x5a92d303ef1b <unknown>
+#15 0x5a92d3042e19 <unknown>
+#16 0x5a92d3025ac9 <unknown>
+#17 0x5a92d30439c8 <unknown>
+#18 0x5a92d300a34f <unknown>
+#19 0x5a92d3067a28 <unknown>
+#20 0x5a92d3067c06 <unknown>
+#21 0x5a92d3079336 <unknown>
+#22 0x77c2d5a9caa4 <unknown>
+#23 0x77c2d5b29c3c <unknown>
+
+2025-07-08 22:56:36,223 - ERROR - ❌ Error during keyword 'data extraction' scraping: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=137.0.7151.119)
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f5b3 <unknown>
+#2 0x5a92d2b070c5 <unknown>
+#3 0x5a92d2b060b9 <unknown>
+#4 0x5a92d2b2e309 <unknown>
+#5 0x5a92d2b9f8cf <unknown>
+#6 0x5a92d2bbccc5 <unknown>
+#7 0x5a92d2b96c23 <unknown>
+#8 0x5a92d2b634a5 <unknown>
+#9 0x5a92d2b64111 <unknown>
+#10 0x5a92d303ef1b <unknown>
+#11 0x5a92d3042e19 <unknown>
+#12 0x5a92d3025ac9 <unknown>
+#13 0x5a92d30439c8 <unknown>
+#14 0x5a92d300a34f <unknown>
+#15 0x5a92d3067a28 <unknown>
+#16 0x5a92d3067c06 <unknown>
+#17 0x5a92d3079336 <unknown>
+#18 0x77c2d5a9caa4 <unknown>
+#19 0x77c2d5b29c3c <unknown>
+
+2025-07-08 22:56:36,358 - ERROR - ❌ Error during keyword 'api integration' scraping: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=137.0.7151.119)
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f760 <unknown>
+#2 0x5a92d2b05e8e <unknown>
+#3 0x5a92d2b2e309 <unknown>
+#4 0x5a92d2b9f8cf <unknown>
+#5 0x5a92d2bbccc5 <unknown>
+#6 0x5a92d2b96c23 <unknown>
+#7 0x5a92d2b634a5 <unknown>
+#8 0x5a92d2b64111 <unknown>
+#9 0x5a92d303ef1b <unknown>
+#10 0x5a92d3042e19 <unknown>
+#11 0x5a92d3025ac9 <unknown>
+#12 0x5a92d30439c8 <unknown>
+#13 0x5a92d300a34f <unknown>
+#14 0x5a92d3067a28 <unknown>
+#15 0x5a92d3067c06 <unknown>
+#16 0x5a92d3079336 <unknown>
+#17 0x77c2d5a9caa4 <unknown>
+#18 0x77c2d5b29c3c <unknown>
+
+2025-07-08 22:56:36,416 - ERROR - ❌ Error during keyword 'data mining' scraping: Message: invalid session id
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f5b3 <unknown>
+#2 0x5a92d2b6266f <unknown>
+#3 0x5a92d2b96d56 <unknown>
+#4 0x5a92d2b916c7 <unknown>
+#5 0x5a92d2b90805 <unknown>
+#6 0x5a92d2ae87b8 <unknown>
+#7 0x5a92d303ef1b <unknown>
+#8 0x5a92d3042e19 <unknown>
+#9 0x5a92d3025ac9 <unknown>
+#10 0x5a92d30439c8 <unknown>
+#11 0x5a92d300a34f <unknown>
+#12 0x5a92d2ae65df <unknown>
+#13 0x77c2d5a2a1ca <unknown>
+#14 0x77c2d5a2a28b __libc_start_main
+#15 0x5a92d2aacdaa _start
+
+2025-07-08 22:56:36,454 - ERROR - ❌ Error during keyword 'beautifulsoup' scraping: Message: invalid session id
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f5b3 <unknown>
+#2 0x5a92d2b6266f <unknown>
+#3 0x5a92d2b96d56 <unknown>
+#4 0x5a92d2b916c7 <unknown>
+#5 0x5a92d2b90805 <unknown>
+#6 0x5a92d2ae87b8 <unknown>
+#7 0x5a92d303ef1b <unknown>
+#8 0x5a92d3042e19 <unknown>
+#9 0x5a92d3025ac9 <unknown>
+#10 0x5a92d30439c8 <unknown>
+#11 0x5a92d300a34f <unknown>
+#12 0x5a92d2ae65df <unknown>
+#13 0x77c2d5a2a1ca <unknown>
+#14 0x77c2d5a2a28b __libc_start_main
+#15 0x5a92d2aacdaa _start
+
+2025-07-08 22:56:36,490 - ERROR - ❌ Error during keyword 'scrapy' scraping: Message: invalid session id
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f5b3 <unknown>
+#2 0x5a92d2b6266f <unknown>
+#3 0x5a92d2b96d56 <unknown>
+#4 0x5a92d2b916c7 <unknown>
+#5 0x5a92d2b90805 <unknown>
+#6 0x5a92d2ae87b8 <unknown>
+#7 0x5a92d303ef1b <unknown>
+#8 0x5a92d3042e19 <unknown>
+#9 0x5a92d3025ac9 <unknown>
+#10 0x5a92d30439c8 <unknown>
+#11 0x5a92d300a34f <unknown>
+#12 0x5a92d2ae65df <unknown>
+#13 0x77c2d5a2a1ca <unknown>
+#14 0x77c2d5a2a28b __libc_start_main
+#15 0x5a92d2aacdaa _start
+
+2025-07-08 22:56:36,509 - ERROR - ❌ Error during keyword 'pdf scraping' scraping: Message: invalid session id
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f5b3 <unknown>
+#2 0x5a92d2b6266f <unknown>
+#3 0x5a92d2b96d56 <unknown>
+#4 0x5a92d2b916c7 <unknown>
+#5 0x5a92d2b90805 <unknown>
+#6 0x5a92d2ae87b8 <unknown>
+#7 0x5a92d303ef1b <unknown>
+#8 0x5a92d3042e19 <unknown>
+#9 0x5a92d3025ac9 <unknown>
+#10 0x5a92d30439c8 <unknown>
+#11 0x5a92d300a34f <unknown>
+#12 0x5a92d2ae65df <unknown>
+#13 0x77c2d5a2a1ca <unknown>
+#14 0x77c2d5a2a28b __libc_start_main
+#15 0x5a92d2aacdaa _start
+
+2025-07-08 22:56:36,543 - ERROR - ❌ Error during keyword 'bot' scraping: Message: invalid session id
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f5b3 <unknown>
+#2 0x5a92d2b6266f <unknown>
+#3 0x5a92d2b96d56 <unknown>
+#4 0x5a92d2b916c7 <unknown>
+#5 0x5a92d2b90805 <unknown>
+#6 0x5a92d2ae87b8 <unknown>
+#7 0x5a92d303ef1b <unknown>
+#8 0x5a92d3042e19 <unknown>
+#9 0x5a92d3025ac9 <unknown>
+#10 0x5a92d30439c8 <unknown>
+#11 0x5a92d300a34f <unknown>
+#12 0x5a92d2ae65df <unknown>
+#13 0x77c2d5a2a1ca <unknown>
+#14 0x77c2d5a2a28b __libc_start_main
+#15 0x5a92d2aacdaa _start
+
+2025-07-08 22:56:36,558 - ERROR - ❌ Error during keyword 'crawler' scraping: Message: invalid session id
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f5b3 <unknown>
+#2 0x5a92d2b6266f <unknown>
+#3 0x5a92d2b96d56 <unknown>
+#4 0x5a92d2b916c7 <unknown>
+#5 0x5a92d2b90805 <unknown>
+#6 0x5a92d2ae87b8 <unknown>
+#7 0x5a92d303ef1b <unknown>
+#8 0x5a92d3042e19 <unknown>
+#9 0x5a92d3025ac9 <unknown>
+#10 0x5a92d30439c8 <unknown>
+#11 0x5a92d300a34f <unknown>
+#12 0x5a92d2ae65df <unknown>
+#13 0x77c2d5a2a1ca <unknown>
+#14 0x77c2d5a2a28b __libc_start_main
+#15 0x5a92d2aacdaa _start
+
+2025-07-08 22:56:36,574 - ERROR - ❌ Error during keyword 'email automation' scraping: Message: invalid session id
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f5b3 <unknown>
+#2 0x5a92d2b6266f <unknown>
+#3 0x5a92d2b96d56 <unknown>
+#4 0x5a92d2b916c7 <unknown>
+#5 0x5a92d2b90805 <unknown>
+#6 0x5a92d2ae87b8 <unknown>
+#7 0x5a92d303ef1b <unknown>
+#8 0x5a92d3042e19 <unknown>
+#9 0x5a92d3025ac9 <unknown>
+#10 0x5a92d30439c8 <unknown>
+#11 0x5a92d300a34f <unknown>
+#12 0x5a92d2ae65df <unknown>
+#13 0x77c2d5a2a1ca <unknown>
+#14 0x77c2d5a2a28b __libc_start_main
+#15 0x5a92d2aacdaa _start
+
+2025-07-08 22:56:36,591 - ERROR - ❌ Error during keyword 'data scraping' scraping: Message: invalid session id
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f5b3 <unknown>
+#2 0x5a92d2b6266f <unknown>
+#3 0x5a92d2b96d56 <unknown>
+#4 0x5a92d2b916c7 <unknown>
+#5 0x5a92d2b90805 <unknown>
+#6 0x5a92d2ae87b8 <unknown>
+#7 0x5a92d303ef1b <unknown>
+#8 0x5a92d3042e19 <unknown>
+#9 0x5a92d3025ac9 <unknown>
+#10 0x5a92d30439c8 <unknown>
+#11 0x5a92d300a34f <unknown>
+#12 0x5a92d2ae65df <unknown>
+#13 0x77c2d5a2a1ca <unknown>
+#14 0x77c2d5a2a28b __libc_start_main
+#15 0x5a92d2aacdaa _start
+
+2025-07-08 22:56:36,606 - ERROR - ❌ Error during keyword 'chrome extension' scraping: Message: invalid session id
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f5b3 <unknown>
+#2 0x5a92d2b6266f <unknown>
+#3 0x5a92d2b96d56 <unknown>
+#4 0x5a92d2b916c7 <unknown>
+#5 0x5a92d2b90805 <unknown>
+#6 0x5a92d2ae87b8 <unknown>
+#7 0x5a92d303ef1b <unknown>
+#8 0x5a92d3042e19 <unknown>
+#9 0x5a92d3025ac9 <unknown>
+#10 0x5a92d30439c8 <unknown>
+#11 0x5a92d300a34f <unknown>
+#12 0x5a92d2ae65df <unknown>
+#13 0x77c2d5a2a1ca <unknown>
+#14 0x77c2d5a2a28b __libc_start_main
+#15 0x5a92d2aacdaa _start
+
+2025-07-08 22:56:36,620 - ERROR - ❌ Error during keyword 'twilio' scraping: Message: invalid session id
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f5b3 <unknown>
+#2 0x5a92d2b6266f <unknown>
+#3 0x5a92d2b96d56 <unknown>
+#4 0x5a92d2b916c7 <unknown>
+#5 0x5a92d2b90805 <unknown>
+#6 0x5a92d2ae87b8 <unknown>
+#7 0x5a92d303ef1b <unknown>
+#8 0x5a92d3042e19 <unknown>
+#9 0x5a92d3025ac9 <unknown>
+#10 0x5a92d30439c8 <unknown>
+#11 0x5a92d300a34f <unknown>
+#12 0x5a92d2ae65df <unknown>
+#13 0x77c2d5a2a1ca <unknown>
+#14 0x77c2d5a2a28b __libc_start_main
+#15 0x5a92d2aacdaa _start
+
+2025-07-08 22:56:36,634 - ERROR - ❌ Error during keyword 'telegram bot' scraping: Message: invalid session id
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f5b3 <unknown>
+#2 0x5a92d2b6266f <unknown>
+#3 0x5a92d2b96d56 <unknown>
+#4 0x5a92d2b916c7 <unknown>
+#5 0x5a92d2b90805 <unknown>
+#6 0x5a92d2ae87b8 <unknown>
+#7 0x5a92d303ef1b <unknown>
+#8 0x5a92d3042e19 <unknown>
+#9 0x5a92d3025ac9 <unknown>
+#10 0x5a92d30439c8 <unknown>
+#11 0x5a92d300a34f <unknown>
+#12 0x5a92d2ae65df <unknown>
+#13 0x77c2d5a2a1ca <unknown>
+#14 0x77c2d5a2a28b __libc_start_main
+#15 0x5a92d2aacdaa _start
+
+2025-07-08 22:56:36,648 - ERROR - ❌ Error during keyword 'freelancing bot' scraping: Message: invalid session id
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f5b3 <unknown>
+#2 0x5a92d2b6266f <unknown>
+#3 0x5a92d2b96d56 <unknown>
+#4 0x5a92d2b916c7 <unknown>
+#5 0x5a92d2b90805 <unknown>
+#6 0x5a92d2ae87b8 <unknown>
+#7 0x5a92d303ef1b <unknown>
+#8 0x5a92d3042e19 <unknown>
+#9 0x5a92d3025ac9 <unknown>
+#10 0x5a92d30439c8 <unknown>
+#11 0x5a92d300a34f <unknown>
+#12 0x5a92d2ae65df <unknown>
+#13 0x77c2d5a2a1ca <unknown>
+#14 0x77c2d5a2a28b __libc_start_main
+#15 0x5a92d2aacdaa _start
+
+2025-07-08 22:56:36,661 - ERROR - ❌ Error during keyword 'job scraper' scraping: Message: invalid session id
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f5b3 <unknown>
+#2 0x5a92d2b6266f <unknown>
+#3 0x5a92d2b96d56 <unknown>
+#4 0x5a92d2b916c7 <unknown>
+#5 0x5a92d2b90805 <unknown>
+#6 0x5a92d2ae87b8 <unknown>
+#7 0x5a92d303ef1b <unknown>
+#8 0x5a92d3042e19 <unknown>
+#9 0x5a92d3025ac9 <unknown>
+#10 0x5a92d30439c8 <unknown>
+#11 0x5a92d300a34f <unknown>
+#12 0x5a92d2ae65df <unknown>
+#13 0x77c2d5a2a1ca <unknown>
+#14 0x77c2d5a2a28b __libc_start_main
+#15 0x5a92d2aacdaa _start
+
+2025-07-08 22:56:36,675 - ERROR - ❌ Error during keyword 'keyword filter' scraping: Message: invalid session id
+Stacktrace:
+#0 0x5a92d307a45a <unknown>
+#1 0x5a92d2b1f5b3 <unknown>
+#2 0x5a92d2b6266f <unknown>
+#3 0x5a92d2b96d56 <unknown>
+#4 0x5a92d2b916c7 <unknown>
+#5 0x5a92d2b90805 <unknown>
+#6 0x5a92d2ae87b8 <unknown>
+#7 0x5a92d303ef1b <unknown>
+#8 0x5a92d3042e19 <unknown>
+#9 0x5a92d3025ac9 <unknown>
+#10 0x5a92d30439c8 <unknown>
+#11 0x5a92d300a34f <unknown>
+#12 0x5a92d2ae65df <unknown>
+#13 0x77c2d5a2a1ca <unknown>
+#14 0x77c2d5a2a28b __libc_start_main
+#15 0x5a92d2aacdaa _start
+
+2025-07-08 22:56:36,732 - INFO - ✅ Scraping complete and saved to data/guru_jobs.csv
+2025-07-08 22:57:39,093 - INFO - ✅ Cookie accepted
+2025-07-08 22:57:45,448 - INFO - 🔍 Keyword clicked: web scraping
+2025-07-08 22:57:55,944 - INFO - 🔍 Keyword clicked: selenium
+2025-07-08 22:58:04,666 - INFO - 🔍 Keyword clicked: python
+2025-07-08 22:58:16,250 - INFO - 🔍 Keyword clicked: automation
+2025-07-08 22:58:24,883 - INFO - 🔍 Keyword clicked: data extraction
+2025-07-08 22:58:33,967 - INFO - 🔍 Keyword clicked: api integration
+2025-07-08 22:58:46,033 - INFO - 🔍 Keyword clicked: data mining
+2025-07-08 22:58:58,000 - WARNING - ⚠️ Dropdown issue for keyword 'beautifulsoup': Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=137.0.7151.119)
+Stacktrace:
+#0 0x56c10767645a <unknown>
+#1 0x56c10711b760 <unknown>
+#2 0x56c107103411 <unknown>
+#3 0x56c107103115 <unknown>
+#4 0x56c1071020b9 <unknown>
+#5 0x56c10712a309 <unknown>
+#6 0x56c10719b8cf <unknown>
+#7 0x56c1071b8cc5 <unknown>
+#8 0x56c107192c23 <unknown>
+#9 0x56c10715f4a5 <unknown>
+#10 0x56c107160111 <unknown>
+#11 0x56c10763af1b <unknown>
+#12 0x56c10763ee19 <unknown>
+#13 0x56c107621ac9 <unknown>
+#14 0x56c10763f9c8 <unknown>
+#15 0x56c10760634f <unknown>
+#16 0x56c107663a28 <unknown>
+#17 0x56c107663c06 <unknown>
+#18 0x56c107675336 <unknown>
+#19 0x786f4069caa4 <unknown>
+#20 0x786f40729c3c <unknown>
+
+2025-07-08 22:59:00,050 - ERROR - ❌ Error during keyword 'beautifulsoup' scraping: Message: invalid session id
+Stacktrace:
+#0 0x56c10767645a <unknown>
+#1 0x56c10711b5b3 <unknown>
+#2 0x56c10715e66f <unknown>
+#3 0x56c107192d56 <unknown>
+#4 0x56c10718d6c7 <unknown>
+#5 0x56c10718c805 <unknown>
+#6 0x56c1070e47b8 <unknown>
+#7 0x56c10763af1b <unknown>
+#8 0x56c10763ee19 <unknown>
+#9 0x56c107621ac9 <unknown>
+#10 0x56c10763f9c8 <unknown>
+#11 0x56c10760634f <unknown>
+#12 0x56c1070e25df <unknown>
+#13 0x786f4062a1ca <unknown>
+#14 0x786f4062a28b __libc_start_main
+#15 0x56c1070a8daa _start
+
+2025-07-08 22:59:00,097 - ERROR - ❌ Error during keyword 'scrapy' scraping: Message: invalid session id
+Stacktrace:
+#0 0x56c10767645a <unknown>
+#1 0x56c10711b5b3 <unknown>
+#2 0x56c10715e66f <unknown>
+#3 0x56c107192d56 <unknown>
+#4 0x56c10718d6c7 <unknown>
+#5 0x56c10718c805 <unknown>
+#6 0x56c1070e47b8 <unknown>
+#7 0x56c10763af1b <unknown>
+#8 0x56c10763ee19 <unknown>
+#9 0x56c107621ac9 <unknown>
+#10 0x56c10763f9c8 <unknown>
+#11 0x56c10760634f <unknown>
+#12 0x56c1070e25df <unknown>
+#13 0x786f4062a1ca <unknown>
+#14 0x786f4062a28b __libc_start_main
+#15 0x56c1070a8daa _start
+
+2025-07-08 22:59:00,146 - ERROR - ❌ Error during keyword 'pdf scraping' scraping: Message: invalid session id
+Stacktrace:
+#0 0x56c10767645a <unknown>
+#1 0x56c10711b5b3 <unknown>
+#2 0x56c10715e66f <unknown>
+#3 0x56c107192d56 <unknown>
+#4 0x56c10718d6c7 <unknown>
+#5 0x56c10718c805 <unknown>
+#6 0x56c1070e47b8 <unknown>
+#7 0x56c10763af1b <unknown>
+#8 0x56c10763ee19 <unknown>
+#9 0x56c107621ac9 <unknown>
+#10 0x56c10763f9c8 <unknown>
+#11 0x56c10760634f <unknown>
+#12 0x56c1070e25df <unknown>
+#13 0x786f4062a1ca <unknown>
+#14 0x786f4062a28b __libc_start_main
+#15 0x56c1070a8daa _start
+
+2025-07-08 22:59:00,189 - ERROR - ❌ Error during keyword 'bot' scraping: Message: invalid session id
+Stacktrace:
+#0 0x56c10767645a <unknown>
+#1 0x56c10711b5b3 <unknown>
+#2 0x56c10715e66f <unknown>
+#3 0x56c107192d56 <unknown>
+#4 0x56c10718d6c7 <unknown>
+#5 0x56c10718c805 <unknown>
+#6 0x56c1070e47b8 <unknown>
+#7 0x56c10763af1b <unknown>
+#8 0x56c10763ee19 <unknown>
+#9 0x56c107621ac9 <unknown>
+#10 0x56c10763f9c8 <unknown>
+#11 0x56c10760634f <unknown>
+#12 0x56c1070e25df <unknown>
+#13 0x786f4062a1ca <unknown>
+#14 0x786f4062a28b __libc_start_main
+#15 0x56c1070a8daa _start
+
+2025-07-08 22:59:00,230 - ERROR - ❌ Error during keyword 'crawler' scraping: Message: invalid session id
+Stacktrace:
+#0 0x56c10767645a <unknown>
+#1 0x56c10711b5b3 <unknown>
+#2 0x56c10715e66f <unknown>
+#3 0x56c107192d56 <unknown>
+#4 0x56c10718d6c7 <unknown>
+#5 0x56c10718c805 <unknown>
+#6 0x56c1070e47b8 <unknown>
+#7 0x56c10763af1b <unknown>
+#8 0x56c10763ee19 <unknown>
+#9 0x56c107621ac9 <unknown>
+#10 0x56c10763f9c8 <unknown>
+#11 0x56c10760634f <unknown>
+#12 0x56c1070e25df <unknown>
+#13 0x786f4062a1ca <unknown>
+#14 0x786f4062a28b __libc_start_main
+#15 0x56c1070a8daa _start
+
+2025-07-08 22:59:00,272 - ERROR - ❌ Error during keyword 'email automation' scraping: Message: invalid session id
+Stacktrace:
+#0 0x56c10767645a <unknown>
+#1 0x56c10711b5b3 <unknown>
+#2 0x56c10715e66f <unknown>
+#3 0x56c107192d56 <unknown>
+#4 0x56c10718d6c7 <unknown>
+#5 0x56c10718c805 <unknown>
+#6 0x56c1070e47b8 <unknown>
+#7 0x56c10763af1b <unknown>
+#8 0x56c10763ee19 <unknown>
+#9 0x56c107621ac9 <unknown>
+#10 0x56c10763f9c8 <unknown>
+#11 0x56c10760634f <unknown>
+#12 0x56c1070e25df <unknown>
+#13 0x786f4062a1ca <unknown>
+#14 0x786f4062a28b __libc_start_main
+#15 0x56c1070a8daa _start
+
+2025-07-08 22:59:00,311 - ERROR - ❌ Error during keyword 'data scraping' scraping: Message: invalid session id
+Stacktrace:
+#0 0x56c10767645a <unknown>
+#1 0x56c10711b5b3 <unknown>
+#2 0x56c10715e66f <unknown>
+#3 0x56c107192d56 <unknown>
+#4 0x56c10718d6c7 <unknown>
+#5 0x56c10718c805 <unknown>
+#6 0x56c1070e47b8 <unknown>
+#7 0x56c10763af1b <unknown>
+#8 0x56c10763ee19 <unknown>
+#9 0x56c107621ac9 <unknown>
+#10 0x56c10763f9c8 <unknown>
+#11 0x56c10760634f <unknown>
+#12 0x56c1070e25df <unknown>
+#13 0x786f4062a1ca <unknown>
+#14 0x786f4062a28b __libc_start_main
+#15 0x56c1070a8daa _start
+
+2025-07-08 22:59:00,352 - ERROR - ❌ Error during keyword 'chrome extension' scraping: Message: invalid session id
+Stacktrace:
+#0 0x56c10767645a <unknown>
+#1 0x56c10711b5b3 <unknown>
+#2 0x56c10715e66f <unknown>
+#3 0x56c107192d56 <unknown>
+#4 0x56c10718d6c7 <unknown>
+#5 0x56c10718c805 <unknown>
+#6 0x56c1070e47b8 <unknown>
+#7 0x56c10763af1b <unknown>
+#8 0x56c10763ee19 <unknown>
+#9 0x56c107621ac9 <unknown>
+#10 0x56c10763f9c8 <unknown>
+#11 0x56c10760634f <unknown>
+#12 0x56c1070e25df <unknown>
+#13 0x786f4062a1ca <unknown>
+#14 0x786f4062a28b __libc_start_main
+#15 0x56c1070a8daa _start
+
+2025-07-08 22:59:00,387 - ERROR - ❌ Error during keyword 'twilio' scraping: Message: invalid session id
+Stacktrace:
+#0 0x56c10767645a <unknown>
+#1 0x56c10711b5b3 <unknown>
+#2 0x56c10715e66f <unknown>
+#3 0x56c107192d56 <unknown>
+#4 0x56c10718d6c7 <unknown>
+#5 0x56c10718c805 <unknown>
+#6 0x56c1070e47b8 <unknown>
+#7 0x56c10763af1b <unknown>
+#8 0x56c10763ee19 <unknown>
+#9 0x56c107621ac9 <unknown>
+#10 0x56c10763f9c8 <unknown>
+#11 0x56c10760634f <unknown>
+#12 0x56c1070e25df <unknown>
+#13 0x786f4062a1ca <unknown>
+#14 0x786f4062a28b __libc_start_main
+#15 0x56c1070a8daa _start
+
+2025-07-08 22:59:00,410 - ERROR - ❌ Error during keyword 'telegram bot' scraping: Message: invalid session id
+Stacktrace:
+#0 0x56c10767645a <unknown>
+#1 0x56c10711b5b3 <unknown>
+#2 0x56c10715e66f <unknown>
+#3 0x56c107192d56 <unknown>
+#4 0x56c10718d6c7 <unknown>
+#5 0x56c10718c805 <unknown>
+#6 0x56c1070e47b8 <unknown>
+#7 0x56c10763af1b <unknown>
+#8 0x56c10763ee19 <unknown>
+#9 0x56c107621ac9 <unknown>
+#10 0x56c10763f9c8 <unknown>
+#11 0x56c10760634f <unknown>
+#12 0x56c1070e25df <unknown>
+#13 0x786f4062a1ca <unknown>
+#14 0x786f4062a28b __libc_start_main
+#15 0x56c1070a8daa _start
+
+2025-07-08 22:59:00,424 - ERROR - ❌ Error during keyword 'freelancing bot' scraping: Message: invalid session id
+Stacktrace:
+#0 0x56c10767645a <unknown>
+#1 0x56c10711b5b3 <unknown>
+#2 0x56c10715e66f <unknown>
+#3 0x56c107192d56 <unknown>
+#4 0x56c10718d6c7 <unknown>
+#5 0x56c10718c805 <unknown>
+#6 0x56c1070e47b8 <unknown>
+#7 0x56c10763af1b <unknown>
+#8 0x56c10763ee19 <unknown>
+#9 0x56c107621ac9 <unknown>
+#10 0x56c10763f9c8 <unknown>
+#11 0x56c10760634f <unknown>
+#12 0x56c1070e25df <unknown>
+#13 0x786f4062a1ca <unknown>
+#14 0x786f4062a28b __libc_start_main
+#15 0x56c1070a8daa _start
+
+2025-07-08 22:59:00,437 - ERROR - ❌ Error during keyword 'job scraper' scraping: Message: invalid session id
+Stacktrace:
+#0 0x56c10767645a <unknown>
+#1 0x56c10711b5b3 <unknown>
+#2 0x56c10715e66f <unknown>
+#3 0x56c107192d56 <unknown>
+#4 0x56c10718d6c7 <unknown>
+#5 0x56c10718c805 <unknown>
+#6 0x56c1070e47b8 <unknown>
+#7 0x56c10763af1b <unknown>
+#8 0x56c10763ee19 <unknown>
+#9 0x56c107621ac9 <unknown>
+#10 0x56c10763f9c8 <unknown>
+#11 0x56c10760634f <unknown>
+#12 0x56c1070e25df <unknown>
+#13 0x786f4062a1ca <unknown>
+#14 0x786f4062a28b __libc_start_main
+#15 0x56c1070a8daa _start
+
+2025-07-08 22:59:00,451 - ERROR - ❌ Error during keyword 'keyword filter' scraping: Message: invalid session id
+Stacktrace:
+#0 0x56c10767645a <unknown>
+#1 0x56c10711b5b3 <unknown>
+#2 0x56c10715e66f <unknown>
+#3 0x56c107192d56 <unknown>
+#4 0x56c10718d6c7 <unknown>
+#5 0x56c10718c805 <unknown>
+#6 0x56c1070e47b8 <unknown>
+#7 0x56c10763af1b <unknown>
+#8 0x56c10763ee19 <unknown>
+#9 0x56c107621ac9 <unknown>
+#10 0x56c10763f9c8 <unknown>
+#11 0x56c10760634f <unknown>
+#12 0x56c1070e25df <unknown>
+#13 0x786f4062a1ca <unknown>
+#14 0x786f4062a28b __libc_start_main
+#15 0x56c1070a8daa _start
+
+2025-07-08 22:59:00,512 - INFO - ✅ Scraping complete and saved to data/guru_jobs.csv

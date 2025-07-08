@@ -6,32 +6,45 @@ import time
 from utils.helpers import load_keywords
 from utils.helpers import save_to_csv
 import os
-
+import logging
+# Logging setup
+LOG_DIR="logs"
+LOG_FILE=os.path.join(LOG_DIR,"errors.log")
+os.makedirs(LOG_DIR,exist_ok=True)
+logging.basicConfig(
+    filename=LOG_FILE,
+    filemode='a',
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    level=logging.INFO
+)
 def scrape():  # ✅ Wrap in function
-    driver = webdriver.Chrome()
-    url = "https://www.guru.com/d/jobs/"
-    driver.get(url)
-    time.sleep(3)
+    try:
+        driver=webdriver.Chrome()
+        url="https://www.guru.com/d/jobs/"
+        driver.get(url)
+        time.sleep(2)
+    except Exception as e:
+        logging.error("🚨 Failed to start WebDriver or load page: %s", str(e))
 
-    # Accept cookie banner
+    # Accept cookies
     try:
         accept = WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable((By.XPATH, "//*[@id='onetrust-accept-btn-handler']"))
         )
         accept.click()
-        print("✅ Cookie accepted using direct XPath")
-    except:
-        print("❌ Cookie accept button not found or not clickable.")
+        logging.info("✅ Cookie accepted")
+    except Exception as e:
+        logging.warning("⚠️ Cookie button issue: %s", str(e))
 
     keywords=load_keywords()
 
     all_jobs = []
 
     for word in keywords:
-        driver.get(url)
-        time.sleep(2)
         try:
-            search = driver.find_element(By.XPATH, "//*[@id='typeahead-32']")
+            driver.get(url)
+            time.sleep(2)
+            search=driver.find_element(By.XPATH, "//*[@id='typeahead-33']")
             search.clear()
             search.send_keys(word)
             try:
@@ -39,39 +52,37 @@ def scrape():  # ✅ Wrap in function
                     EC.element_to_be_clickable((By.XPATH, "//*[@id='search-app']/div/section/div/div[1]/div[2]/div[1]/span[1]/label/ul/li"))
                 )
                 key.click()
-                print(f"🔍 Keyword clicked: {word}")
-            except:
-                print(f"⚠️ No dropdown found for: {word}")
+                logging.info(f"🔍 Keyword clicked: {word}")
+            except Exception as e:
+                logging.warning(f"⚠️ Dropdown issue for keyword '{word}': {str(e)}")
             time.sleep(2)
-        except:
-            print(f"❌ Search bar issue with keyword: {word}")
 
-        # Try cookie accept again just in case
-        try:
-            accept = WebDriverWait(driver, 10).until(
-                EC.element_to_be_clickable((By.XPATH, "//*[@id='onetrust-accept-btn-handler']"))
-            )
-            accept.click()
-        except:
-            pass
-
-        posts = driver.find_elements(By.XPATH, "//*[@id='search-app']/div/section/div/div[2]/div/ul/li")
-        for post in posts:
-            try:
-                title = post.find_element(By.XPATH, './/h2').text
-                price = post.find_element(By.XPATH, ".//div[contains(@class,'jobRecord__budget')]").text
-                desc = post.find_element(By.XPATH, ".//p[contains(@class,'jobRecord__desc')]").text
-                link = post.find_element(By.XPATH, ".//h2/a").get_attribute('href')
-            except:
-                title = desc = link = price = 'n/a'
-
-            all_jobs.append({
-                "Job Title": title,
-                "Job Description": desc,
-                "link": link,
-                "price": price
-            })
+            posts = driver.find_elements(By.XPATH, "//*[@id='search-app']/div/section/div/div[2]/div/ul/li")
+            
+            for post in posts:
+                try:
+                    title = post.find_element(By.XPATH, './/h2').text
+                    price = post.find_element(By.XPATH, ".//div[contains(@class,'jobRecord__budget')]").text
+                    desc = post.find_element(By.XPATH, ".//p[contains(@class,'jobRecord__desc')]").text
+                    link = post.find_element(By.XPATH, ".//h2/a").get_attribute('href')
+                except Exception as e:
+                    logging.error("❌ Failed to extract job data: %s", str(e))
+                    title=desc=link=price='n/a'
+                
+                all_jobs.append({
+                    'Job Title':title,
+                    "Job Description":desc,
+                    "link":link,
+                    "price":price
+                })
+        except Exception as e:
+            logging.error(f"❌ Error during keyword '{word}' scraping: {str(e)}")
 
     driver.quit()
-    save_to_csv(all_jobs, "guru_jobs.csv")  # ✅ Correct file name
-    print("✅ Scraping complete and saved to data/guru_jobs.csv")
+
+    try:
+        save_to_csv(all_jobs,"guru_jobs.csv")
+        logging.info("✅ Scraping complete and saved to data/guru_jobs.csv")
+    except Exception as e:
+        logging.error("❌ Failed to save CSV: %s", str(e))
+
