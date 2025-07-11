@@ -1,80 +1,23 @@
-**Freelance Job Aggregator Bot**
+# 🤖 Freelance Job Aggregator Bot
 
-A complete, modular Python-based system to scrape, filter, and notify freelance job listings from multiple platforms via WhatsApp.
-
----
-
-## 🌟 Features
-
-* **Multi-Platform Scraping**: Automates job data extraction from PeoplePerHour, Guru.com, and RemoteOK using Selenium & BeautifulSoup.
-* **Modular Architecture**: Clean separation of scrapers, utilities, and main controller for easy maintenance and scalability.
-* **Robust Data Saving**: Saves raw and filtered job listings as structured CSV files.
-* **Keyword Filtering**: Leverages Pandas to filter jobs by customizable keyword list.
-* **WhatsApp Notifications**: Sends real-time job alerts via Twilio WhatsApp Sandbox.
-* **Environment Security**: Credentials managed securely via `.env` file.
+A professional-level Python automation tool that scrapes job listings from multiple freelancing platforms, filters them based on your custom keywords, removes duplicates, logs errors, schedules auto-runs, and displays results on a sleek Flask dashboard.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 Features
 
-* **Python 3.8+**
-* **Selenium** for browser automation
-* **BeautifulSoup** for HTML parsing
-* **Pandas** for data manipulation
-* **Twilio** for WhatsApp notifications
-* **python-dotenv** for environment variable management
-
----
-
-## 🚀 Prerequisites
-
-* Python 3.8 or higher
-* [Chromedriver](https://chromedriver.chromium.org/) (compatible with your Chrome version)
-* Twilio account with WhatsApp Sandbox enabled
+* 🌐 Scrapes from: **PeoplePerHour**, **Guru**, **RemoteOK**
+* 🎯 Custom **keyword-based filtering**
+* 🧹 **Duplicate job** removal by job link
+* 📁 Saves **raw and filtered CSVs**
+* 📋 Full **logging system** (errors + actions)
+* ⏰ **Automation-ready** using `schedule` or `cron`
+* 🧠 Live **Flask dashboard** with Bootstrap
+* 🔗 Modular structure — easily extendable
 
 ---
 
-## ⚙️ Installation
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/<your-username>/freelance_job_aggregator.git
-   cd freelance_job_aggregator
-   ```
-
-2. **Create and activate a virtual environment**
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate      # Linux/macOS
-   venv\\Scripts\\activate     # Windows
-   ```
-
-3. **Install dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
-## 🔒 Configuration
-
-1. **Create a `.env` file** in project root:
-
-   ```env
-   ACCOUNT_SID=your_twilio_account_sid
-   AUTH_TOKEN=your_twilio_auth_token
-   FROM_WHATSAPP=whatsapp:+14155238886    # Twilio sandbox number
-   TO_WHATSAPP=whatsapp:+92XXXXXXXXXX    # Your WhatsApp number
-   ```
-
-2. **Ensure `.env` is listed in `.gitignore`** to keep credentials secure.
-
----
-
-## 📂 Folder Structure
+## 📁 Project Structure
 
 ```
 freelance_job_aggregator/
@@ -90,55 +33,114 @@ freelance_job_aggregator/
 ├── data/                      # Raw and filtered CSV outputs
 │   ├── pph_jobs.csv
 │   ├── guru_jobs.csv
-│   ├── remoteok_jobs.csv
-│   ├── filtered_pph_jobs.csv
-│   ├── filtered_guru_jobs.csv
-│   └── filtered_remoteok_jobs.csv
+│   └── ...
 │
-├── config/                    # Configuration files (keywords, settings)
+├── config/                    # Keywords & user preferences
 │   └── keywords.txt
 │
-├── main.py                    # Master controller: scrape, filter, notify
+├── app/                       # Flask app folder
+│   ├── dashboard.py           # Dashboard route/controller
+│   └── templates/
+│       └── index.html         # HTML UI
+│
+├── main.py                    # Master controller
+├── scheduler.py               # Scheduled automation script
 ├── requirements.txt           # Python dependencies
-└── README.md                  # Project overview and documentation
+└── README.md                  # You are here
 ```
 
 ---
 
-## 🎯 Usage
+## ⚙️ Installation
 
-1. **Run scrapers and filter**
+```bash
+# Clone repo
+https://github.com/yourusername/Freelance_Job_Aggregator.git
+cd Freelance_Job_Aggregator
 
-   ```bash
-   python main.py
-   ```
+# Create virtual environment
+python3 -m venv venv
+source venv/bin/activate
 
-   * Executes all scrapers
-   * Filters jobs based on keywords
-   * Saves data in `data/` directory
-
-2. **WhatsApp Notifications**
-
-   * Messages sent automatically for each filtered job.
-
-3. **Customize keywords**
-
-   * Edit `config/keywords.txt` or update `utils/keyword_filter.py` load function.
+# Install requirements
+pip install -r requirements.txt
+```
 
 ---
 
-## 🤝 Contributing
+## 🚀 Usage
 
-1. Fork this repository.
-2. Create a feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m "Add YourFeature"`).
-4. Push to branch (`git push origin feature/YourFeature`).
-5. Open a Pull Request.
+### ▶️ Manual Run
 
-Please ensure all new code includes comments and follows PEP8 guidelines.
+```bash
+python main.py
+```
+
+This will:
+
+* Scrape from each platform
+* Save raw data to `data/`
+* Filter using `utils/keyword_filter.py`
+* Output filtered results
+
+---
+
+### 🔁 Scheduled Run
+
+```bash
+python scheduler.py
+```
+
+This will run scraping + filtering at regular intervals.
+
+For Linux automation:
+
+```bash
+crontab -e
+# Run every 2 hours
+0 */2 * * * /path/to/venv/bin/python /full/path/scheduler.py
+```
+
+---
+
+### 🧠 Dashboard View
+
+```bash
+cd app
+python dashboard.py
+```
+
+Visit `http://127.0.0.1:5000` to see jobs in browser with Bootstrap design.
+
+---
+
+## 🧪 Output Sample
+
+* `data/pph_jobs.csv` — raw scraped jobs
+* `data/filtered_pph_jobs.csv` — filtered relevant jobs
+* `logs/errors.log` — if scraping fails or search bar breaks
+
+---
+
+## 🛠 Built With
+
+* **Python 3**
+* **Selenium**
+* **Pandas**
+* **Flask**
+* **schedule**
+* **Bootstrap** (for dashboard)
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by **Safeer Hussain** — freelance automation enthusiast.
+
+GitHub: [@SyedSafeerHussain](https://github.com/SyedSafeerHussain)
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+MIT License — feel free to use, modify, and share!
