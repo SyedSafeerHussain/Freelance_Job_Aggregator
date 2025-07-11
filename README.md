@@ -3,6 +3,9 @@
 A professional-level Python automation tool that scrapes job listings from multiple freelancing platforms, filters them based on your custom keywords, removes duplicates, logs errors, schedules auto-runs, and displays results on a sleek Flask dashboard.
 
 ---
+## 📸 Demo Preview
+![Dashboard](images/image.png)
+
 
 ## 🔥 Features
 
