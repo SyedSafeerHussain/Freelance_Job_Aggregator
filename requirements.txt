@@ -1,0 +1,5 @@
+Flask==3.0.3
+pandas==2.2.2
+selenium==4.20.0
+beautifulsoup4==4.13.3
+schedule==1.2.1
