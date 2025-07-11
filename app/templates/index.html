@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelance Job Dashboard</title>
+    <style>
+        body{
+            font-family: Arial;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+        table{
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th,td{
+            padding: 10px;
+            border: 1px solid #ccc;
+            text-align: left;
+        }
+        th{
+            background-color: #333;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #eee;
+        }
+        a{
+            color: #007bff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <h2>🧠 Freelance Job Aggregator Dashboard</h2>
+    <table>
+        <tr>
+            <th>Plateform</th>
+            <th>Job Title</th>
+            <th>Description</th>
+            <th>Budget</th>
+            <th>Link</th>
+        </tr>
+{% for job in jobs %}
+  <tr>
+    <td>{{ job.source }}</td>
+    <td>{{ job.title }}</td>
+    <td>{{ job.desc[:80] }}...</td>
+    <td>{{ job.price }}</td>
+    <td><a href="{{ job.link }}" target="_blank">View</a></td>
+  </tr>
+{% endfor %}
+
+
+
+    </table>
+    
+</body>
+</html>
