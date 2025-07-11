@@ -1642,3 +1642,947 @@ Stacktrace:
 #15 0x56c1070a8daa _start
 
 2025-07-08 22:59:00,512 - INFO - ✅ Scraping complete and saved to data/guru_jobs.csv
+2025-07-10 22:38:16,417 - INFO - ✅ Cookie accepted
+2025-07-10 22:38:36,188 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:38:57,059 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:39:14,635 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:39:33,803 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:39:53,463 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:40:13,639 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:40:33,027 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:40:59,162 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:41:22,377 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:41:44,909 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:42:08,381 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:42:30,602 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:42:52,712 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:43:14,190 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:43:38,837 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:44:03,119 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:44:28,737 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:44:52,927 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:45:17,584 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:45:44,347 - WARNING - ⚠️ Cookie button issue: Message: 
+Stacktrace:
+#0 0x5f756b3f445a <unknown>
+#1 0x5f756ae99760 <unknown>
+#2 0x5f756aeeb127 <unknown>
+#3 0x5f756aeeb321 <unknown>
+#4 0x5f756af39e94 <unknown>
+#5 0x5f756af10e7d <unknown>
+#6 0x5f756af3730b <unknown>
+#7 0x5f756af10c23 <unknown>
+#8 0x5f756aedd4a5 <unknown>
+#9 0x5f756aede111 <unknown>
+#10 0x5f756b3b8f1b <unknown>
+#11 0x5f756b3bce19 <unknown>
+#12 0x5f756b39fac9 <unknown>
+#13 0x5f756b3bd9c8 <unknown>
+#14 0x5f756b38434f <unknown>
+#15 0x5f756b3e1a28 <unknown>
+#16 0x5f756b3e1c06 <unknown>
+#17 0x5f756b3f3336 <unknown>
+#18 0x73c30d49caa4 <unknown>
+#19 0x73c30d529c3c <unknown>
+
+2025-07-10 22:45:47,647 - INFO - ✅ Scraping complete and saved to data/pph_job.csv
+2025-07-10 22:45:56,498 - INFO - ✅ Cookie accepted
+2025-07-10 22:46:00,992 - ERROR - ❌ Error during keyword 'web scraping' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:46:05,016 - ERROR - ❌ Error during keyword 'selenium' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:46:09,152 - ERROR - ❌ Error during keyword 'python' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:46:13,343 - ERROR - ❌ Error during keyword 'automation' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:46:17,617 - ERROR - ❌ Error during keyword 'data extraction' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:46:21,209 - ERROR - ❌ Error during keyword 'api integration' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:46:25,590 - ERROR - ❌ Error during keyword 'data mining' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:46:29,382 - ERROR - ❌ Error during keyword 'beautifulsoup' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:46:33,615 - ERROR - ❌ Error during keyword 'scrapy' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:46:37,032 - ERROR - ❌ Error during keyword 'pdf scraping' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:46:40,906 - ERROR - ❌ Error during keyword 'bot' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:46:44,472 - ERROR - ❌ Error during keyword 'crawler' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:46:48,241 - ERROR - ❌ Error during keyword 'email automation' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:46:51,927 - ERROR - ❌ Error during keyword 'data scraping' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:46:55,890 - ERROR - ❌ Error during keyword 'chrome extension' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:46:59,628 - ERROR - ❌ Error during keyword 'twilio' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:47:03,809 - ERROR - ❌ Error during keyword 'telegram bot' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:47:07,425 - ERROR - ❌ Error during keyword 'freelancing bot' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:47:11,737 - ERROR - ❌ Error during keyword 'job scraper' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:47:15,772 - ERROR - ❌ Error during keyword 'keyword filter' scraping: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='typeahead-33']"}
+  (Session info: chrome=137.0.7151.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56cbcf6ea45a <unknown>
+#1 0x56cbcf18f760 <unknown>
+#2 0x56cbcf1e1127 <unknown>
+#3 0x56cbcf1e1321 <unknown>
+#4 0x56cbcf22fe94 <unknown>
+#5 0x56cbcf206e7d <unknown>
+#6 0x56cbcf22d30b <unknown>
+#7 0x56cbcf206c23 <unknown>
+#8 0x56cbcf1d34a5 <unknown>
+#9 0x56cbcf1d4111 <unknown>
+#10 0x56cbcf6aef1b <unknown>
+#11 0x56cbcf6b2e19 <unknown>
+#12 0x56cbcf695ac9 <unknown>
+#13 0x56cbcf6b39c8 <unknown>
+#14 0x56cbcf67a34f <unknown>
+#15 0x56cbcf6d7a28 <unknown>
+#16 0x56cbcf6d7c06 <unknown>
+#17 0x56cbcf6e9336 <unknown>
+#18 0x723bf449caa4 <unknown>
+#19 0x723bf4529c3c <unknown>
+
+2025-07-10 22:47:15,892 - INFO - ✅ Scraping complete and saved to data/guru_jobs.csv
